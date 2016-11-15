@@ -1,0 +1,1 @@
+A project that applies CNN to simultaneously predict facial attributes, including face landmarks, gender and age. 
