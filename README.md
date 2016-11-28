@@ -15,3 +15,4 @@ This multitask CNN has been trained on scratch from Celebrity dataset released b
 
 Install caffe and dlib, run the following command
 
+python predict_vanilla_fd_attribute.py ../train_multitask/model/_iter_500000.caffemodel family3.jpg
