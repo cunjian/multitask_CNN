@@ -2,10 +2,13 @@
 
 A project that applies CNN to simultaneously predict facial attributes, including gender and age. This can be extended to more attributes.
 
-This multitask CNN has been trained on scratch from Celebrity dataset released by CUHK.  After 500000 iterations, it reaches 84.21\% for age classification and 95.47\% for gender classification.
+This multitask CNN has been trained on scratch from Celebrity dataset released by CUHK.  After 500000 iterations, it reaches 84.21% for age classification and 95.47% for gender classification.
 
 ### Evaluation Results
 
+Male: M; Female: F; Young: Y; Old: O
+
+Along with the attribute symbols, the network also outputs the probability associated with each attribute.
 
 ![alt text](https://github.com/cunjian/multitask_CNN/blob/master/evaluate/demo_result.jpg "Logo Title Text 1")
 
