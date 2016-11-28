@@ -7,7 +7,7 @@ This multitask CNN has been trained on scratch from Celebrity dataset released b
 ### Evaluation Results
 
 
-![alt text](hhttps://github.com/cunjian/multitask_CNN/blob/master/evaluate/demo_result.jpg "Logo Title Text 1")
+![alt text](https://github.com/cunjian/multitask_CNN/blob/master/evaluate/demo_result.jpg "Logo Title Text 1")
 
 ![alt text](https://github.com/cunjian/multitask_CNN/blob/master/evaluate/041_result.jpg "Logo Title Text 1")
 
